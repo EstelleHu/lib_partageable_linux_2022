@@ -1,4 +1,3 @@
-^X
 #ifndef COMPOSANT1_H
 #define COMPOSANT1_H
 
